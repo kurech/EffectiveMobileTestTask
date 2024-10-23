@@ -7,4 +7,31 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\EffectiveMobileTestTask.deps.json" />
+    <Content Include="bin\Debug\net8.0\EffectiveMobileTestTask.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0\EffectiveMobileTestTask.dll" />
+    <None Include="bin\Debug\net8.0\EffectiveMobileTestTask.exe" />
+    <None Include="bin\Debug\net8.0\EffectiveMobileTestTask.pdb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0\cs\" />
+    <Folder Include="bin\Debug\net8.0\de\" />
+    <Folder Include="bin\Debug\net8.0\es\" />
+    <Folder Include="bin\Debug\net8.0\fr\" />
+    <Folder Include="bin\Debug\net8.0\it\" />
+    <Folder Include="bin\Debug\net8.0\ja\" />
+    <Folder Include="bin\Debug\net8.0\ko\" />
+    <Folder Include="bin\Debug\net8.0\pl\" />
+    <Folder Include="bin\Debug\net8.0\pt-BR\" />
+    <Folder Include="bin\Debug\net8.0\ru\" />
+    <Folder Include="bin\Debug\net8.0\tr\" />
+    <Folder Include="bin\Debug\net8.0\zh-Hans\" />
+    <Folder Include="bin\Debug\net8.0\zh-Hant\" />
+  </ItemGroup>
+
 </Project>
